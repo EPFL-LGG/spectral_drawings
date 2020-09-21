@@ -7,5 +7,6 @@ dependencies:
   - scipy
   - meshplot
   - igl
+  - pip
   - pip:
     - networkx==2.5
